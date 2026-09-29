@@ -39,11 +39,15 @@ Joystick Izquierdo Eje X (lx): Controla la dirección y rotación (valores negat
 
 Para cada equipo participante sera otorgado un chasis impreso en 3D obligatorio a usar como el siguiente: 
 
-<img width="1104" height="1280" alt="image" src="https://github.com/user-attachments/assets/f48173c1-1694-45f0-bc6e-49401f864f50" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f48173c1-1694-45f0-bc6e-49401f864f50" width="300" alt="Esquema 2">
+</p>
 
 En dicho chasis, se debera utilizar un par de motoreductores amarillos convencionales, los cuales estaran sujetos al chasis mediante tornilleria y junto con su respectiva llanta usal. En cuestiones de alimentación se debera contar con portapilas con capacidad de dos baterias de un tamaño y capacidad de 3.7V con su respectivo switch de encedido y apagado del robor, se recomienda dichas baterias por cuestiones de espacio en el chasis. Todo esto se puede interpretar mejor en la siguiente imagen. 
 
-<img width="784" height="1280" alt="image" src="https://github.com/user-attachments/assets/69354280-8824-4825-9bfd-1800a8b3ec47" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/69354280-8824-4825-9bfd-1800a8b3ec47" width="300" alt="Esquema 1">
+</p>
  
 Listo, ya con todas las bases anteriores puedes comenzar con el armado y programación de tu robot - soccer listo para competir, ¡MUCHO EXITO A TODOS!
   
