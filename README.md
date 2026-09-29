@@ -1,4 +1,4 @@
-# CUCEI-ROBOT-SOCCER-2026---Registro-de-Equipos-
+# CUCEI-ROBOT-SOCCER-2026 
 
 Una implementación de firmware robusta escrita para ESP32 para controlar un robot de fútbol con tracción diferencial utilizando mandos Bluetooth modernos (Xbox One/Series, PS4 DualShock, PS5 DualSense, Switch Pro Controller, etc.).
 
@@ -49,6 +49,7 @@ En dicho chasis, se debera utilizar un par de motoreductores amarillos convencio
   <img src="https://github.com/user-attachments/assets/69354280-8824-4825-9bfd-1800a8b3ec47" width="300" alt="Esquema 1">
 </p>
  
-Listo, ya con todas las bases anteriores puedes comenzar con el armado y programación de tu robot - soccer listo para competir, ¡MUCHO EXITO A TODOS!
+Listo, ya con todas las bases anteriores puedes comenzar con el armado y programación de tu robot - soccer listo para competir. 
+¡MUCHO EXITO A TODOS!
   
 
