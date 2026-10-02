@@ -30,10 +30,14 @@ PS4 / PS5: Mantén presionados los botones Share/Create + Botón PS simultáneam
 Conexión Automática: El ESP32 borra las llaves previas al iniciar (BP32.forgetBluetoothKeys()) y se conectará automáticamente al mando que esté buscando conexión.
 El Monitor Serie mostrará CONTROL XBOX CONECTADO una vez establecida la vinculación o si quieres una conexión sencilla para cambiar de mando constamente deja dicha linea en el codigo.
 
-CODIGO EN ROBOT: El código interpreta las palancas (joysticks) y las traduce en movimiento físico en la cancha. Las palancas analógicas de los mandos de Xbox o PS4 envían valores en el rango de -512 a 512 en cada eje. Como los potenciómetros físicos nunca regresan a un cero perfecto al soltarlos, el código aplica un filtro de zona muerta, ya que si la lectura es menor a 100, lo toma como 0 o sin movimiento. 
+CODIGO EN ROBOT: El código interpreta las palancas (joysticks) y las cuales podria traducir en movimiento físico en la cancha si así se quisiera. Las palancas analógicas de los mandos de Xbox o PS4 envían valores en el rango de -512 a 512 en cada eje, pero como los potenciómetros físicos nunca regresan a un cero perfecto al soltarlos, el código aplica un filtro de zona muerta, ya que si la lectura es menor a 100, lo toma como 0 o sin movimiento. 
+
+Nosotros como prueba base recomendamos: 
 
 Joystick Izquierdo Eje Y (ly): Controla el avance y la reversa (se invierte el signo -ly porque mover la palanca hacia arriba entrega valores negativos).
 Joystick Izquierdo Eje X (lx): Controla la dirección y rotación (valores negativos a la izquierda, positivos a la derecha).
+
+Pueden existir distintas formas de programarlo, por ejemplo un boton de aceleración y otro de reversa con valores constantes en ambos motores, esta parte queda a la imaginación y comodidades del equipo. 
 
  * COMPONENTES NECESARIOS PARA ARMADO FÍSICO:
 
