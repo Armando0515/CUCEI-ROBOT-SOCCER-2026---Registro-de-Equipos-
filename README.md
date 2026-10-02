@@ -34,8 +34,8 @@ CODIGO EN ROBOT: El código interpreta las palancas (joysticks) y las cuales pod
 
 Nosotros como prueba base recomendamos: 
 
-Joystick Izquierdo Eje Y (ly): Controla el avance y la reversa (se invierte el signo -ly porque mover la palanca hacia arriba entrega valores negativos).
-Joystick Izquierdo Eje X (lx): Controla la dirección y rotación (valores negativos a la izquierda, positivos a la derecha).
+- Joystick Izquierdo Eje Y (ly): Controla el avance y la reversa (se invierte el signo -ly porque mover la palanca hacia arriba entrega valores negativos).
+- Joystick Izquierdo Eje X (lx): Controla la dirección y rotación (valores negativos a la izquierda, positivos a la derecha).
 
 Pueden existir distintas formas de programarlo, por ejemplo un boton de aceleración y otro de reversa con valores constantes en ambos motores, esta parte queda a la imaginación y comodidades del equipo. 
 
