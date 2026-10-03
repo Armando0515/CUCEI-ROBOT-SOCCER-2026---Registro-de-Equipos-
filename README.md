@@ -56,7 +56,7 @@ En dicho chasis, se debera utilizar un par de motoreductores amarillos convencio
 A continuación se mostrara un circuito de conexión base, el uso de alimentación, microcontrolador y puente H es recomendado, estos apartados quedan a disposición de cada equipo, solo recuerden que debe tener conexión bluethoot y debe ser teleoperado. 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/095f596e-bcb1-464e-aeee-6b25b8d5aec7" width="600" alt="Esquema 3">
+  <img src="https://github.com/user-attachments/assets/ef357bb1-2698-4614-80f3-a4049f721556" width="600" alt="Esquema 3">
 </p>
  
 Listo, ya con todas las bases anteriores puedes comenzar con el armado y programación de tu robot - soccer listo para competir. 
