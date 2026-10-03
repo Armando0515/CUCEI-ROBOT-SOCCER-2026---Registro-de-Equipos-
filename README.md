@@ -58,6 +58,20 @@ A continuación se mostrara un circuito de conexión base, el uso de alimentaci�
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ef357bb1-2698-4614-80f3-a4049f721556" width="600" alt="Esquema 3">
 </p>
+
+Videos de Apoyo para Competencia: 
+
+Mando + esp32
+https://youtu.be/V0a3dC67gJM
+
+Teoria Control
+https://youtu.be/EIrFNuoQGhM
+
+Reglamento
+https://youtu.be/po5NVeyT-dg
+
+Circuito
+https://youtu.be/W9Q4fKAUw64
  
 Listo, ya con todas las bases anteriores puedes comenzar con el armado y programación de tu robot - soccer listo para competir. 
 ¡MUCHO EXITO A TODOS!
