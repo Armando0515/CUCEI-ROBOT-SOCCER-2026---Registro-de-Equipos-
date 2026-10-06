@@ -52,7 +52,7 @@ En dicho chasis, se debera utilizar un par de motoreductores amarillos convencio
   <img src="https://github.com/user-attachments/assets/69354280-8824-4825-9bfd-1800a8b3ec47" width="300" alt="Esquema 1">
 </p>
 
-A continuación se mostrará un circuito de conexión base, el uso de alimentación, microcontrolador y puente H es recomendado, estos apartados quedan a disposición de cada equipo, sólo recuerden que debe tener conexión bluetooth y debe ser teleoperado. 
+A continuación se mostrará un circuito de conexión base, el uso de alimentación, microcontrolador y puente H es recomendado, estos apartados quedan a disposición de cada equipo, solo recuerden que debe tener conexión bluetooth y debe ser teleoperado. 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ef357bb1-2698-4614-80f3-a4049f721556" width="600" alt="Esquema 3">
